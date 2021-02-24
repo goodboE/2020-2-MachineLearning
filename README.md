@@ -1,1 +1,1 @@
-## 2020-2 MachinieLearning Class
+## 2020-2 MachineLearning Class
